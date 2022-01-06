@@ -1,9 +1,5 @@
-#authors
+#author
 #Digvijaysinh Gohil
-#Karan Shah
-#Meet Jhaveri
-#Pankil Sheth
-#Sarjil Patel
 
 
 
